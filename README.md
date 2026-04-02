@@ -19,7 +19,8 @@ This project analyzes Zomato restaurant data using SQL and Power BI to extract i
 - Trend analysis by year, month, quarter
 
 ## 📷 Dashboard Preview
-(Add your screenshot here)
+<img width="1323" height="755" alt="image" src="https://github.com/user-attachments/assets/3f995208-c682-4834-9b78-0ff6279c2eb2" />
+
 
 ## 🚀 How to Use
 1. Run SQL queries from SQL file
